@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "igAfLkIPKxnCnCzU8tdTkq45nK97N4X5nLTeR6Q0wymAzaQAXDxc8l4y8bGe1AUNYe7oH3AwyYRFUWhMqWQ+kA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\The user\\Desktop\\מסלול\\פרקטיקוד\\p1\\FtoT\\FtoT\\FtoT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

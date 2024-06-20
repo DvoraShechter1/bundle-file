@@ -1,0 +1,1 @@
+--input . --output "t.txt" --language cs --note false --delEmpty false
